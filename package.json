@@ -1,0 +1,15 @@
+{
+  "name": "asarkar-sum-of-repeated-numbers",
+  "version": "1.0.0",
+  "description": "sum of repeated numbers of an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "duplicate",
+    "sums"
+  ],
+  "author": "abesh",
+  "license": "ISC"
+}
